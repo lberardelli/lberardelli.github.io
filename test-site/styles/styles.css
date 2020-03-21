@@ -1,0 +1,32 @@
+img {
+      width: 400px;
+      display: block;
+      margin: 0 auto;
+}
+
+html {
+    font-size: 10px;    /*size of font*/
+    font-family: 'Inconsolata', monospace;
+    background-color: #EBEBDF;
+}
+
+h1 {
+    text-align: center; 
+    font-size: 40px;
+    margin: 0;
+    padding: 20px 0;    
+}
+
+li, p, a {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #e6ffff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
